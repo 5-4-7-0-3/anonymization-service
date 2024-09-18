@@ -1,12 +1,15 @@
 # Anonymization Service
 
-## Опис
+## Description
 
-Цей сервіс анонімізує особисті дані покупців у MongoDB.
+This service anonymizes customers' personal data in MongoDB.
 
-## Запуск проекту
+## Project launch
 
-1. Клонувати репозиторій.
-2. Встановити залежності:
+1. Clone the repository.
+2. Install dependencies:
    ```bash
    npm install
+3. Starting the service:
+   ```bash
+   npm run start
